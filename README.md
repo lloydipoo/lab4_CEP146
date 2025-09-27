@@ -45,7 +45,7 @@ Things I enjoy doing:
 
 
 
-# Seneca Academic Integrity Policy
+# Seneca Academic Integrity Policy (Exercise 3)
 
 ## Purpose
 The purpose of this policy is to ensure that all students understand the importance of **academic integrity** and the expectations for maintaining honesty in all academic work.  
